@@ -83,7 +83,6 @@ const tamanna = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-FF4B4B?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
 ### Tools
 
@@ -148,7 +147,7 @@ AI-powered note-taking platform built with MERN and Retrieval-Augmented Generati
 
 `React.js` `Node.js` `MongoDB` `OpenAI` `RAG`
 
-🔗 Add Repository Link Here
+[🔗 Add Repository Link Here](https://github.com/tamannanathani/Notely)
 
 ---
 
@@ -184,7 +183,7 @@ AI-powered note-taking platform built with MERN and Retrieval-Augmented Generati
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito)](https://leetcode.com/u/tamanna_n18/)
 
 ---
 
@@ -207,9 +206,7 @@ AI-powered note-taking platform built with MERN and Retrieval-Augmented Generati
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamannanathani)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamanna-nathani-081067320/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannanathani45@gmail.com)
 
