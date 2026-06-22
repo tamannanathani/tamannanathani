@@ -126,7 +126,7 @@ Blockchain-inspired Blue Carbon MRV System built for Smart India Hackathon.
 
 `React Native` `Node.js` `Express.js` `MongoDB` `Machine Learning`
 
-🔗 Add Repository Link Here
+[🔗 github link](https://github.com/tamannanathani/Veriflow-Blue-carbon-MRV-SYSTEM)
 
 ---
 
@@ -147,7 +147,7 @@ AI-powered note-taking platform built with MERN and Retrieval-Augmented Generati
 
 `React.js` `Node.js` `MongoDB` `OpenAI` `RAG`
 
-[🔗 Add Repository Link Here](https://github.com/tamannanathani/Notely)
+[🔗 github link](https://github.com/tamannanathani/Notely)
 
 ---
 
@@ -183,7 +183,7 @@ AI-powered note-taking platform built with MERN and Retrieval-Augmented Generati
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito)](https://leetcode.com/u/tamanna_n18/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tamanna_n18?theme=dark&font=Nunito)](https://leetcode.com/u/tamanna_n18/)
 
 ---
 
