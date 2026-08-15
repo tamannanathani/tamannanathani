@@ -98,7 +98,7 @@ const tamanna = {
 
 ### 🏢 MERN Stack Developer Intern | Gravit Infosystems
 
-**Jan 2026 – Present**
+**Jan 2026 – JUL 2026**
 
 - Developed and maintained 10+ RESTful APIs using Node.js and Express.js
 - Designed relational database schemas using MySQL and Sequelize ORM
